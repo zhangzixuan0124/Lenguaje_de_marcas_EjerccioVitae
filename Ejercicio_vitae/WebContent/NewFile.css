@@ -3,4 +3,26 @@
     text-decoration: underline;
     background-color:  hsl(200, 45%, 85%);
     }
-    
+    h3{
+    text-decoration: underline;
+    background-color:  hsl(200, 45%, 85%);
+    }
+    strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+body {
+    background-color: hsl(200, 15%, 85%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
